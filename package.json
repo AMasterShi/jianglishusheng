@@ -1,0 +1,17 @@
+{
+  "name": "baishancha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "master_shi",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "1.2.0",
+    "vuepress-plugin-nest": "^1.0.2",
+    "vuepress-plugin-one-click-copy": "^1.0.6",
+    "vuepress-theme-reco": "1.5.5"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build:docs": "vuepress build docs"
+  }
+}
