@@ -1,6 +1,7 @@
 module.exports = {
+    dest: 'public',
     // 指定 dev server 的端口。
-    port: 8686,
+    // port: 8686,
     // 网站的标题，它将会被用作所有页面标题的前缀，同时，默认主题下，它将显示在导航栏（navbar）上。
     title: '一朵白山茶',
     // 网站的描述，它将会以 <meta> 标签渲染到当前页面的 HTML 中。
