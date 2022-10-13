@@ -10,7 +10,7 @@ yarn add -D vuepress@1.2.0
 yarn add -D vuepress-theme-reco@1.5.5
 ```
 
-3.运行
+3. 运行
 
 ```
 yarn dev
