@@ -2,4 +2,3 @@
 **/.cache
 docs/.vuepress/dist
 **/.temp
-/public
