@@ -78,7 +78,7 @@ module.exports = {
         ],
 
         // 项目开始时间，只填写年份。
-        startYear: '2020',
+        // startYear: '2020',
 
         // 友链。
         friendLink: [
