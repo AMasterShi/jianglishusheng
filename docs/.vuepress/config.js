@@ -57,6 +57,33 @@ module.exports = {
                         '202210150437'
                     ]
                 }
+            ],
+            '/blogs/java/': [
+                {
+                    title: 'Java',
+                    collapsable: true,
+                    children: [
+                        'test'
+                    ]
+                }
+            ],
+            '/blogs/vue/': [
+                {
+                    title: 'Vue',
+                    collapsable: true,
+                    children: [
+                        'test'
+                    ]
+                }
+            ],
+            '/blogs/mysql/': [
+                {
+                    title: 'MySQL',
+                    collapsable: true,
+                    children: [
+                        'test'
+                    ]
+                }
             ]
         },
         // 文章右侧目录。
