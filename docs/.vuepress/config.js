@@ -46,6 +46,15 @@ module.exports = {
                         '202210121411'
                     ]
                 }
+            ],
+            '/blogs/html/': [
+                {
+                    title: 'Html',
+                    collapsable: true,
+                    children: [
+                        '202210150325'
+                    ]
+                }
             ]
         },
         // 文章右侧目录。
