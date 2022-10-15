@@ -56,14 +56,77 @@ module.exports = {
 							title: 'HTML5 简介',
 							collapsable: true,
 							children: [
-								'202210150325',
-								'202210150339',
-								'202210150437',
-								'202210150553',
-								'202210151704'
+								{title: 'HTML 历史与 HTML5', path: '202210150325'},
+								{title: 'HTML 发展历史', path: '202210150339'},
+								{title: 'HTML 4.01 和 XHTML', path: '202210150437'},
+								{title: 'HTML 和 XHTML 的文档类型定义（DTD）', path: '202210150553'},
+								{title: '从 XHTML 到 HTML5', path: '202210151704'},
+								
 							]
-						}
-                        
+						},
+                        {
+							title: 'HTML5 的常用元素与属性',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: 'HTML5 表单相关的元素和属性',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: 'HTML5 的绘图支持',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: 'HTML5 的多媒体支持',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: '级联样式单与 CSS 选择器',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: '字体与文本相关属性',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: '背景、边框和边距相关属性',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: '大小、定位、轮廓相关属性',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: '盒模型与布局相关属性',
+							collapsable: true,
+							children: [
+								
+							]
+						},
                     ]
                 }
             ],
