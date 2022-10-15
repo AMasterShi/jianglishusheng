@@ -61,7 +61,7 @@ module.exports = {
 								{title: 'HTML 4.01 和 XHTML', path: '202210150437'},
 								{title: 'HTML 和 XHTML 的文档类型定义（DTD）', path: '202210150553'},
 								{title: '从 XHTML 到 HTML5', path: '202210151704'},
-								{title: 'HTML5 的优势'}
+								{title: 'HTML5 的优势', path: '202210160450'}
 							]
 						},
                         {
@@ -127,6 +127,76 @@ module.exports = {
 								
 							]
 						},
+						{
+							title: '表格、列表相关属性及 media query',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: '变形与动画相关属性',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: 'JavaScript 语法详解',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: 'DOM 编程详解',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: '事件处理机制',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: '本地存储与离线应用',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: '文件支持与二进制数据',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: 'Web Worker 多线程 API',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: '客户端通信',
+							collapsable: true,
+							children: [
+								
+							]
+						},
+						{
+							title: 'HTML5 疯狂俄罗斯方块',
+							collapsable: true,
+							children: [
+								
+							]
+						}
                     ]
                 }
             ],
