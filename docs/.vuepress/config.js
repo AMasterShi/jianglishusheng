@@ -35,6 +35,7 @@ module.exports = {
         author: '一朵白山茶',
         // 设置首页风格。
         type: 'blog',
+		sidebarDepth: 2,
         // 侧边栏。
         sidebar: {
             '/blogs/markdown/': [
