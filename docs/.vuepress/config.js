@@ -283,6 +283,7 @@ module.exports = {
             copyMessage: '复制成功!', // default is 'Copied successfully!'
             toolTipMessage: '复制到剪贴板', // default is ''Copy to clipboard'
             duration: 300, // prompt message display time
-        }]
+        }],
+		['pagation']
     ]
 }
