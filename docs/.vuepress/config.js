@@ -284,9 +284,6 @@ module.exports = {
             toolTipMessage: '复制到剪贴板', // default is ''Copy to clipboard'
             duration: 300, // prompt message display time
         }],
-		['pagation', {
-			perPage: 10,
-			currentPage: 1
-		}]
+		['@vuepress-reco/vuepress-plugin-pagation']
     ]
 }
