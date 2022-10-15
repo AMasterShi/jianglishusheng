@@ -54,7 +54,7 @@ module.exports = {
                     children: [
 						{
 							title: 'HTML5 简介'，
-							collapsable: true,
+							// collapsable: true,
 							children: [
 								'202210150325',
 								'202210150339',
