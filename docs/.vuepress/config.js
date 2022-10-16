@@ -64,6 +64,7 @@ module.exports = {
 								{title: 'HTML5 的优势', path: '202210160450'},
 								{title: '解决跨浏览器问题', path: '202210161611'},
 								{title: '部分代替了原来的 JavaScript', path: '202210161632'},
+								{title:'更明确的语义支持', path: '202210161905'},
 							]
 						},
                         {
