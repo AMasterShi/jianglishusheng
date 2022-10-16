@@ -61,7 +61,8 @@ module.exports = {
 								{title: 'HTML 4.01 和 XHTML', path: '202210150437'},
 								{title: 'HTML 和 XHTML 的文档类型定义（DTD）', path: '202210150553'},
 								{title: '从 XHTML 到 HTML5', path: '202210151704'},
-								{title: 'HTML5 的优势', path: '202210160450'}
+								{title: 'HTML5 的优势', path: '202210160450'},
+								{title: '解决跨浏览器问题', path: '202210161611'},
 							]
 						},
                         {
