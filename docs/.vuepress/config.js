@@ -66,6 +66,7 @@ module.exports = {
 								{title: '部分代替了原来的 JavaScript', path: '202210161632'},
 								{title:'更明确的语义支持', path: '202210161905'},
 								{title:'增强了 Web 应用程序的功能', path: '202210161919'},
+								{title:'HTML5 的基本结构和语法变化', path: '202210161929'},
 							]
 						},
                         {
