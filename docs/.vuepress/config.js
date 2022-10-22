@@ -279,9 +279,9 @@ module.exports = {
     },
     // 插件。
     plugins: [
-        // 背景连线特效。来源：https://github.com/vxhly/vuepress-plugin-nest
+        // 背景连线特效。来源：https://github.com/vxhly/vuepress-plugin-nest | color: '255,156,192' 粉紫色 | color: '0,47,167' 克莱茵兰
         ['nest', {
-            color: '255,156,192', // color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+            color: '0,47,167', // color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
             pointColor: '0,0,0', // color of points, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
             opacity: 1, // the opacity of line (0~1), default: 0.5.
             count: 99, // the number of lines, default: 99.
