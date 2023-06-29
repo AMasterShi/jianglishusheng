@@ -49,37 +49,39 @@ module.exports = {
             ],
             '/blogs/html/': [
                 {
-                    title: 'Html',
+                    title: 'HTML',
                     collapsable: true,
                     children: [
 						{
 							title: 'HTML5 简介',
 							collapsable: true,
 							children: [
-								{title: 'HTML 历史与 HTML5', path: '202210150325'},
-								{title: 'HTML 发展历史', path: '202210150339'},
-								{title: 'HTML 4.01 和 XHTML', path: '202210150437'},
-								{title: 'HTML 和 XHTML 的文档类型定义（DTD）', path: '202210150553'},
-								{title: '从 XHTML 到 HTML5', path: '202210151704'},
-								{title: 'HTML5 的优势', path: '202210160450'},
-								{title: '解决跨浏览器问题', path: '202210161611'},
-								{title: '部分代替了原来的 JavaScript', path: '202210161632'},
-								{title:'更明确的语义支持', path: '202210161905'},
-								{title:'增强了 Web 应用程序的功能', path: '202210161919'},
-								{title:'HTML5 的基本结构和语法变化', path: '202210161929'},
-								{title:'HTML5 的基本结构', path: '202210161936'},
-								{title:'标签不再区分大小写', path: '202210162343'},
-								{title:'元素可以省略结束标签', path: '202210170007'},
-								{title:'支持 boolean 值的属性', path: '202210170048'},
-								{title:'允许属性值不使用引号', path: '202210170109'},
-								{title:'小结', path: '202210170126'}
+                                {title: 'HTML5 简介', path: '第1章-HTML5 简介/'},
+								{title: 'HTML 历史与 HTML5', path: '第1章-HTML5 简介/202210150325'},
+								{title: 'HTML 发展历史', path: '第1章-HTML5 简介/202210150339'},
+								{title: 'HTML 4.01 和 XHTML', path: '第1章-HTML5 简介/202210150437'},
+								{title: 'HTML 和 XHTML 的文档类型定义（DTD）', path: '第1章-HTML5 简介/202210150553'},
+								{title: '从 XHTML 到 HTML5', path: '第1章-HTML5 简介/202210151704'},
+								{title: 'HTML5 的优势', path: '第1章-HTML5 简介/202210160450'},
+								{title: '解决跨浏览器问题', path: '第1章-HTML5 简介/202210161611'},
+								{title: '部分代替了原来的 JavaScript', path: '第1章-HTML5 简介/202210161632'},
+								{title:'更明确的语义支持', path: '第1章-HTML5 简介/202210161905'},
+								{title:'增强了 Web 应用程序的功能', path: '第1章-HTML5 简介/202210161919'},
+								{title:'HTML5 的基本结构和语法变化', path: '第1章-HTML5 简介/202210161929'},
+								{title:'HTML5 的基本结构', path: '第1章-HTML5 简介/202210161936'},
+								{title:'标签不再区分大小写', path: '第1章-HTML5 简介/202210162343'},
+								{title:'元素可以省略结束标签', path: '第1章-HTML5 简介/202210170007'},
+								{title:'支持 boolean 值的属性', path: '第1章-HTML5 简介/202210170048'},
+								{title:'允许属性值不使用引号', path: '第1章-HTML5 简介/202210170109'},
+								{title:'小结', path: '第1章-HTML5 简介/202210170126'}
 							]
 						},
                         {
 							title: 'HTML5 的常用元素与属性',
 							collapsable: true,
 							children: [
-								
+                                {title: 'HTML5 的常用元素与属性', path:'第2章-HTML5 的常用元素与属性/'},
+								{title: 'HTML5 保留的常用元素', path: '第2章-HTML5 的常用元素与属性/202306300027'},
 							]
 						},
 						{
