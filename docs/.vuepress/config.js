@@ -3,15 +3,15 @@ module.exports = {
     // 指定 dev server 的端口。
     // port: 8686,
     // 网站的标题，它将会被用作所有页面标题的前缀，同时，默认主题下，它将显示在导航栏（navbar）上。
-    title: '一朵白山茶',
+    title: '江离书生',
     // 网站的描述，它将会以 <meta> 标签渲染到当前页面的 HTML 中。
-    description: '皓皓知难污，尘飞谩自红。',
+    description: '停车坐爱枫林晚，霜叶红于二月花。',
     // head标记。
     head: [
         // 移动端优化。
         ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
         // 网页标签栏图标。
-        ['link', { rel: 'icon', href: '/avatar.jpeg' }]
+        ['link', { rel: 'icon', href: '/avatar.jpg' }]
     ],
     // 多语言配置。
     locales: {
@@ -28,11 +28,11 @@ module.exports = {
         // 默认 true，false 不显示模式调节按钮，true 则显示。
         modePicker: false,
         // 导航栏左侧logo。
-        logo: '/avatar.jpeg',
+        logo: '/avatar.jpg',
         // 首页右侧信息栏头像。
-        authorAvatar: '/avatar.jpeg',
+        authorAvatar: '/avatar.jpg',
         // 全局作者姓名。
-        author: '一朵白山茶',
+        author: '江离书生',
         // 设置首页风格。
         type: 'blog',
         // 侧边栏。
@@ -279,9 +279,9 @@ module.exports = {
     },
     // 插件。
     plugins: [
-        // 背景连线特效。来源：https://github.com/vxhly/vuepress-plugin-nest | color: '255,156,192' 粉紫色 | color: '0,47,167' 克莱茵兰
+        // 背景连线特效。来源：https://github.com/vxhly/vuepress-plugin-nest | 62, 175, 124 原始绿 | color: '255, 156, 192' 粉紫色 | color: '0, 47, 167' 克莱茵兰
         ['nest', {
-            color: '0,47,167', // color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+            color: '62, 175, 124', // color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
             pointColor: '0,0,0', // color of points, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
             opacity: 1, // the opacity of line (0~1), default: 0.5.
             count: 99, // the number of lines, default: 99.
@@ -291,9 +291,9 @@ module.exports = {
         // 一键复制。来源：https://github.com/vxhly/vuepress-plugin-one-click-copy
         ['one-click-copy', {
             copySelector: ['div[class*="language-"] pre', 'div[class*="aside-code"] aside'], // String or Array
-            copyMessage: '复制成功!', // default is 'Copied successfully!'
-            toolTipMessage: '复制到剪贴板', // default is ''Copy to clipboard'
-            duration: 300, // prompt message display time
+            copyMessage: '复制成功!', // default is 'Copied successfully!' 复制成功后的提示信息
+            toolTipMessage: '复制到剪贴板', // default is ''Copy to clipboard' 鼠标移到图标上显示的文字
+            duration: 1000, // prompt message display time 复制成功后提示信息的显示时间
         }]
     ]
 }
