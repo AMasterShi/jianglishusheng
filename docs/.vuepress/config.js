@@ -81,7 +81,9 @@ module.exports = {
 							collapsable: true,
 							children: [
                                 {title: 'HTML5 的常用元素与属性', path:'第2章-HTML5 的常用元素与属性/'},
-								{title: 'HTML5 保留的常用元素', path: '第2章-HTML5 的常用元素与属性/202306300027'}
+								{title: 'HTML5 保留的常用元素', path: '第2章-HTML5 的常用元素与属性/202306300027'},
+                                {title: '基本元素', path: '第2章-HTML5 的常用元素与属性/202306301426'},
+                                {title: '文本格式相关元素', path: '第2章-HTML5 的常用元素与属性/202307010123'}
 							]
 						},
 						{
