@@ -231,14 +231,7 @@ module.exports = {
                     title: 'Vue',
                     collapsable: true,
                     children: [
-                        {
-                            title: 'vue 介绍',
-                            collapsable: true,
-							children: [
-								{title: 'vue 介绍', path: '1-vue 介绍/202307281841'}
-							]
-                        }
-                        
+                        {title: 'vue 介绍', path: '202307281841'}
                     ]
                 }
             ],
