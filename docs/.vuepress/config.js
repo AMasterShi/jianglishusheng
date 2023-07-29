@@ -226,9 +226,9 @@ module.exports = {
                     ]
                 }
             ],
-            '/blogs/vue/': [
+            '/blogs/vue3/': [
                 {
-                    title: 'Vue',
+                    title: 'vue3',
                     collapsable: true,
                     children: [
                         {title: 'vue 介绍', path: '202307281841'},
