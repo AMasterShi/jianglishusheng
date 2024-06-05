@@ -1,11 +1,11 @@
 module.exports = {
     dest: 'public',
-    // 指定 dev server 的端口。
+    // 指定 dev server 的端口，有特殊需要可以指定，默认端口号8080。
     // port: 8686,
     // 网站的标题，它将会被用作所有页面标题的前缀，同时，默认主题下，它将显示在导航栏（navbar）上。
     title: '江离书生',
     // 网站的描述，它将会以 <meta> 标签渲染到当前页面的 HTML 中。
-    description: '停车坐爱枫林晚，霜叶红于二月花。',
+    description: '盼前尘回首，三生亦师友。',
     // head标记。
     head: [
         // 移动端优化。
@@ -20,19 +20,20 @@ module.exports = {
         }
     },
     // 显示行号
-    lineNumbers: true, 
+    lineNumbers: true,
+    theme: 'reco',
     // 为当前的主题提供一些配置，这些选项依赖于你正在使用的主题。
     themeConfig: {
-        // 默认 auto，auto 跟随系统，dark 暗色模式，light 亮色模式。
+        // 设置主题浅色还是深色模式，默认 auto，auto 跟随系统，dark 暗色模式，light 亮色模式。
         mode: 'auto',
-        // 默认 true，false 不显示模式调节按钮，true 则显示。
-        modePicker: false,
+        // 设置模式调节按钮，默认 true，false 不显示模式调节按钮，true 则显示。
+        modePicker: true,
         // 导航栏左侧logo。
         logo: '/avatar.jpg',
         // 首页右侧信息栏头像。
         authorAvatar: '/avatar.jpg',
         // 全局作者姓名。
-        author: '江离书生',
+        author: '史博辉',
         // 设置首页风格。
         type: 'blog',
         // 侧边栏。
@@ -85,7 +86,8 @@ module.exports = {
                                 {title: '基本元素', path: '第2章-HTML5 的常用元素与属性/202306301426'},
                                 {title: '文本格式相关元素', path: '第2章-HTML5 的常用元素与属性/202307010123'},
                                 {title: '语义相关元素', path: '第2章-HTML5 的常用元素与属性/202307011227'},
-                                {title: '使用 a 元素添加超链接和锚点', path: '第2章-HTML5 的常用元素与属性/202307012345'}
+                                {title: '使用 a 元素添加超链接和锚点', path: '第2章-HTML5 的常用元素与属性/202307012345'},
+                                {title: '列表相关元素', path: '第2章-HTML5 的常用元素与属性/202307021538'}
 							]
 						},
 						{
@@ -226,6 +228,16 @@ module.exports = {
                     ]
                 }
             ],
+            '/blogs/nvm/': [
+                {
+                    title: 'nvm',
+                    collapsable: true,
+                    children: [
+                        {title: 'nvm 介绍', path: '202406051941'}
+                        
+                    ]
+                }
+            ],
             '/blogs/vue3/': [
                 {
                     title: 'vue3',
@@ -243,6 +255,15 @@ module.exports = {
                     collapsable: true,
                     children: [
                         'test'
+                    ]
+                }
+            ],
+            '/blogs/life/': [
+                {
+                    title: '日常生活',
+                    collapsable: true,
+                    children: [
+                        {title: '日常生活分区', path: 'test'}
                     ]
                 }
             ]
