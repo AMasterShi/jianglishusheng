@@ -277,7 +277,7 @@ module.exports = {
                     title: '日常生活',
                     collapsable: true,
                     children: [
-                        {title: '日常生活分区', path: 'test'}
+                        {title: '企业年报申请流程', path: '202406062017'}
                     ]
                 }
             ],
