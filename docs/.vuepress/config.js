@@ -43,8 +43,9 @@ module.exports = {
                     title: 'Markdown',
                     collapsable: true,
                     children: [
-                        '202210121400',
-                        '202210121411'
+                        {title: 'Markdown 介绍', path: '202210121400'},
+                        {title: 'Markdown 语法', path: '202210121411'},
+                        {title: 'Markdown 字体样式', path: '202406052257'}
                     ]
                 }
             ],
@@ -233,7 +234,8 @@ module.exports = {
                     title: 'nvm',
                     collapsable: true,
                     children: [
-                        {title: 'nvm 介绍', path: '202406051941'}
+                        {title: 'nvm 介绍', path: '202406051941'},
+                        {title: 'nvm 安装', path: '202406052011'}
                         
                     ]
                 }
