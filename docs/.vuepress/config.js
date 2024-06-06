@@ -235,8 +235,8 @@ module.exports = {
                     collapsable: true,
                     children: [
                         {title: 'nvm 介绍', path: '202406051941'},
-                        {title: 'nvm 安装', path: '202406052011'}
-                        
+                        {title: 'nvm 安装', path: '202406052011'},
+                        {title: 'nvm 配置', path: '202406061735'}
                     ]
                 }
             ],
