@@ -269,6 +269,15 @@ module.exports = {
                         {title: '日常生活分区', path: 'test'}
                     ]
                 }
+            ],
+            '/blogs/questions/': [
+                {
+                    title: '常见问题',
+                    collapsable: true,
+                    children: [
+                        {title: '使用 nvm 出现 exit status 145:乱码 问题', path: '202406061909'}
+                    ]
+                }
             ]
         },
         // 文章右侧目录。
