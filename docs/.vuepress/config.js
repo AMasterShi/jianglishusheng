@@ -241,6 +241,17 @@ module.exports = {
                     ]
                 }
             ],
+            '/blogs/pnpm/': [
+                {
+                    title: 'pnpm',
+                    collapsable: true,
+                    children: [
+                        {title: 'pnpm 介绍', path: '202406061925'},
+                        {title: 'pnpm 安装', path: '202406061930'},
+                        {title: 'pnpm 常用命令', path: '202406061950'}
+                    ]
+                }
+            ],
             '/blogs/vue3/': [
                 {
                     title: 'vue3',
