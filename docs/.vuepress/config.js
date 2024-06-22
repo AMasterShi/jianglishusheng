@@ -225,7 +225,13 @@ module.exports = {
                     title: 'Java',
                     collapsable: true,
                     children: [
-                        'test'
+                        {
+                            title: 'Java 面试题',
+                            collapsable: true,
+                            children: [
+                                {title: 'Arraylist 和 LinkedList 的区别', path: 'Java 面试题/202406220952'}
+                            ]
+                        }
                     ]
                 }
             ],
