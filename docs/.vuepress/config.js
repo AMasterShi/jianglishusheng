@@ -229,7 +229,9 @@ module.exports = {
                             title: 'Java 面试题',
                             collapsable: true,
                             children: [
-                                {title: 'Arraylist 和 LinkedList 的区别', path: 'Java 面试题/202406220952'}
+                                {title: 'Arraylist 和 LinkedList 的区别', path: 'Java 面试题/202406220952'},
+                                {title: '什么是动态数组', path: 'Java 面试题/202406221052'}
+                                
                             ]
                         }
                     ]
