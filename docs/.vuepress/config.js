@@ -232,7 +232,8 @@ module.exports = {
                                 {title: 'Arraylist 和 LinkedList 的区别', path: 'Java 面试题/202406220952'},
                                 {title: '什么是动态数组', path: 'Java 面试题/202406221052'},
                                 {title: 'Java 类的加载过程', path: 'Java 面试题/202406221508'},
-                                {title: "List、Set 和 Map 的区别？", path: 'Java 面试题/202406242250'}
+                                {title: "List、Set 和 Map 的区别？", path: 'Java 面试题/202406242250'},
+                                {title: "HashMap 的实现原理", path: 'Java 面试题/202406242308'}
                                 
                             ]
                         }
