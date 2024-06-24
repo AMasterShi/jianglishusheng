@@ -231,7 +231,8 @@ module.exports = {
                             children: [
                                 {title: 'Arraylist 和 LinkedList 的区别', path: 'Java 面试题/202406220952'},
                                 {title: '什么是动态数组', path: 'Java 面试题/202406221052'},
-                                {title: 'Java 类的加载过程', path: 'Java 面试题/202406221508'}
+                                {title: 'Java 类的加载过程', path: 'Java 面试题/202406221508'},
+                                {title: "List、Set 和 Map 的区别？", path: 'Java 面试题/202406242250'}
                                 
                             ]
                         }
