@@ -234,7 +234,8 @@ module.exports = {
                                 {title: 'Java 类的加载过程', path: 'Java 面试题/202406221508'},
                                 {title: "List、Set 和 Map 的区别？", path: 'Java 面试题/202406242250'},
                                 {title: "HashMap 的实现原理", path: 'Java 面试题/202406242308'},
-                                {title: "什么是线程安全", path: 'Java 面试题/202406242328'}
+                                {title: "什么是线程安全", path: 'Java 面试题/202406242328'},
+                                {title: "java 中接口和抽象类的区别", path: 'Java 面试题/202406242338'}
                                 
                             ]
                         }
