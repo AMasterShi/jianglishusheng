@@ -43,9 +43,9 @@ module.exports = {
                     title: 'Markdown',
                     collapsable: true,
                     children: [
-                        {title: 'Markdown 介绍', path: '202210121400'},
-                        {title: 'Markdown 语法', path: '202210121411'},
-                        {title: 'Markdown 字体样式', path: '202406052257'}
+                        {title: "Markdown 介绍", path: "202210121400"},
+                        {title: "Markdown 语法", path: "202210121411"},
+                        {title: "Markdown 字体样式", path: "202406052257"}
                     ]
                 }
             ],
@@ -58,37 +58,37 @@ module.exports = {
 							title: 'HTML5 简介',
 							collapsable: true,
 							children: [
-                                {title: "HTML5 简介", path: '第1章-HTML5 简介/'},
-								{title: "HTML 历史与 HTML5", path: '第1章-HTML5 简介/202210150325'},
-								{title: "HTML 发展历史", path: '第1章-HTML5 简介/202210150339'},
-								{title: "HTML 4.01 和 XHTML", path: '第1章-HTML5 简介/202210150437'},
-								{title: "HTML 和 XHTML 的文档类型定义（DTD）", path: '第1章-HTML5 简介/202210150553'},
-								{title: "从 XHTML 到 HTML5", path: '第1章-HTML5 简介/202210151704'},
-								{title: "HTML5 的优势", path: '第1章-HTML5 简介/202210160450'},
-								{title: "解决跨浏览器问题", path: '第1章-HTML5 简介/202210161611'},
-								{title: "部分代替了原来的 JavaScript", path: '第1章-HTML5 简介/202210161632'},
-								{title: "更明确的语义支持", path: '第1章-HTML5 简介/202210161905'},
-								{title: "增强了 Web 应用程序的功能", path: '第1章-HTML5 简介/202210161919'},
-								{title: "HTML5 的基本结构和语法变化", path: '第1章-HTML5 简介/202210161929'},
-								{title: "HTML5 的基本结构", path: '第1章-HTML5 简介/202210161936'},
-								{title: "标签不再区分大小写", path: '第1章-HTML5 简介/202210162343'},
-								{title: "元素可以省略结束标签", path: '第1章-HTML5 简介/202210170007'},
-								{title: "支持 boolean 值的属性", path: '第1章-HTML5 简介/202210170048'},
-								{title: "允许属性值不使用引号", path: '第1章-HTML5 简介/202210170109'},
-								{title: "小结", path: '第1章-HTML5 简介/202210170126'}
+                                {title: "HTML5 简介", path: "第1章-HTML5 简介/"},
+								{title: "HTML 历史与 HTML5", path: "第1章-HTML5 简介/202210150325"},
+								{title: "HTML 发展历史", path: "第1章-HTML5 简介/202210150339"},
+								{title: "HTML 4.01 和 XHTML", path: "第1章-HTML5 简介/202210150437"},
+								{title: "HTML 和 XHTML 的文档类型定义（DTD）", path: "第1章-HTML5 简介/202210150553"},
+								{title: "从 XHTML 到 HTML5", path: "第1章-HTML5 简介/202210151704"},
+								{title: "HTML5 的优势", path: "第1章-HTML5 简介/202210160450"},
+								{title: "解决跨浏览器问题", path: "第1章-HTML5 简介/202210161611"},
+								{title: "部分代替了原来的 JavaScript", path: "第1章-HTML5 简介/202210161632"},
+								{title: "更明确的语义支持", path: "第1章-HTML5 简介/202210161905"},
+								{title: "增强了 Web 应用程序的功能", path: "第1章-HTML5 简介/202210161919"},
+								{title: "HTML5 的基本结构和语法变化", path: "第1章-HTML5 简介/202210161929"},
+								{title: "HTML5 的基本结构", path: "第1章-HTML5 简介/202210161936"},
+								{title: "标签不再区分大小写", path: "第1章-HTML5 简介/202210162343"},
+								{title: "元素可以省略结束标签", path: "第1章-HTML5 简介/202210170007"},
+								{title: "支持 boolean 值的属性", path: "第1章-HTML5 简介/202210170048"},
+								{title: "允许属性值不使用引号", path: "第1章-HTML5 简介/202210170109"},
+								{title: "小结", path: "第1章-HTML5 简介/202210170126"}
 							]
 						},
                         {
 							title: 'HTML5 的常用元素与属性',
 							collapsable: true,
 							children: [
-                                {title: "HTML5 的常用元素与属性", path:'第2章-HTML5 的常用元素与属性/'},
-								{title: "HTML5 保留的常用元素", path: '第2章-HTML5 的常用元素与属性/202306300027'},
-                                {title: "基本元素", path: '第2章-HTML5 的常用元素与属性/202306301426'},
-                                {title: "文本格式相关元素", path: '第2章-HTML5 的常用元素与属性/202307010123'},
-                                {title: "语义相关元素", path: '第2章-HTML5 的常用元素与属性/202307011227'},
-                                {title: "使用 a 元素添加超链接和锚点", path: '第2章-HTML5 的常用元素与属性/202307012345'},
-                                {title: "列表相关元素", path: '第2章-HTML5 的常用元素与属性/202307021538'}
+                                {title: "HTML5 的常用元素与属性", path:"第2章-HTML5 的常用元素与属性/"},
+								{title: "HTML5 保留的常用元素", path: "第2章-HTML5 的常用元素与属性/202306300027"},
+                                {title: "基本元素", path: "第2章-HTML5 的常用元素与属性/202306301426"},
+                                {title: "文本格式相关元素", path: "第2章-HTML5 的常用元素与属性/202307010123"},
+                                {title: "语义相关元素", path: "第2章-HTML5 的常用元素与属性/202307011227"},
+                                {title: "使用 a 元素添加超链接和锚点", path: "第2章-HTML5 的常用元素与属性/202307012345"},
+                                {title: "列表相关元素", path: "第2章-HTML5 的常用元素与属性/202307021538"}
 							]
 						},
 						{
@@ -229,13 +229,13 @@ module.exports = {
                             title: 'Java 面试题',
                             collapsable: true,
                             children: [
-                                {title: "Arraylist 和 LinkedList 的区别", path: 'Java 面试题/202406220952'},
-                                {title: "什么是动态数组", path: 'Java 面试题/202406221052'},
-                                {title: "Java 类的加载过程", path: 'Java 面试题/202406221508'},
-                                {title: "List、Set 和 Map 的区别？", path: 'Java 面试题/202406242250'},
-                                {title: "HashMap 的实现原理", path: 'Java 面试题/202406242308'},
-                                {title: "什么是线程安全", path: 'Java 面试题/202406242328'},
-                                {title: "java 中接口和抽象类的区别", path: 'Java 面试题/202406242338'}
+                                {title: "Arraylist 和 LinkedList 的区别", path: "Java 面试题/202406220952"},
+                                {title: "什么是动态数组", path: "Java 面试题/202406221052"},
+                                {title: "Java 类的加载过程", path: "Java 面试题/202406221508"},
+                                {title: "List、Set 和 Map 的区别？", path: "Java 面试题/202406242250"},
+                                {title: "HashMap 的实现原理", path: "Java 面试题/202406242308"},
+                                {title: "什么是线程安全", path: "Java 面试题/202406242328"},
+                                {title: "java 中接口和抽象类的区别", path: "Java 面试题/202406242338"}
                                 
                             ]
                         }
@@ -247,10 +247,10 @@ module.exports = {
                     title: 'nvm',
                     collapsable: true,
                     children: [
-                        {title: "nvm 介绍", path: '202406051941'},
-                        {title: "nvm 安装", path: '202406052011'},
-                        {title: "nvm 配置", path: '202406061735'},
-                        {title: "nvm 常用命令", path: '202406061758'}
+                        {title: "nvm 介绍", path: "202406051941"},
+                        {title: "nvm 安装", path: "202406052011"},
+                        {title: "nvm 配置", path: "202406061735"},
+                        {title: "nvm 常用命令", path: "202406061758"}
                     ]
                 }
             ],
@@ -259,9 +259,9 @@ module.exports = {
                     title: 'pnpm',
                     collapsable: true,
                     children: [
-                        {title: "pnpm 介绍", path: '202406061925'},
-                        {title: "pnpm 安装", path: '202406061930'},
-                        {title: "pnpm 常用命令", path: '202406061950'}
+                        {title: "pnpm 介绍", path: "202406061925"},
+                        {title: "pnpm 安装", path: "202406061930"},
+                        {title: "pnpm 常用命令", path: "202406061950"}
                     ]
                 }
             ],
@@ -270,9 +270,9 @@ module.exports = {
                     title: 'vue3',
                     collapsable: true,
                     children: [
-                        {title: "vue 介绍", path: '202307281841'},
-                        {title: "vue 如何工作", path: '202307291511'},
-                        {title: "vue 项目的创建", path: '202307301454'}
+                        {title: "vue 介绍", path: "202307281841"},
+                        {title: "vue 如何工作", path: "202307291511"},
+                        {title: "vue 项目的创建", path: "202307301454"}
                     
                     ]
                 }
@@ -291,8 +291,8 @@ module.exports = {
                     title: '日常生活',
                     collapsable: true,
                     children: [
-                        {title: "企业年报申请流程", path: '202406062017'},
-                        {title: "如何在电脑端获取微信里分享的百度盘小程序链接", path: '202406251728'}
+                        {title: "企业年报申请流程", path: "202406062017"},
+                        {title: "如何在电脑端获取微信里分享的百度盘小程序链接", path: "202406251728"}
                     ]
                 }
             ],
@@ -301,8 +301,8 @@ module.exports = {
                     title: '常见问题',
                     collapsable: true,
                     children: [
-                        {title: "使用 nvm 出现 exit status 145:乱码 问题", path: '202406061909'},
-                        {title: "浏览器 url 地址殊字符转义编码", path: '202406251641'}
+                        {title: "使用 nvm 出现 exit status 145:乱码 问题", path: "202406061909"},
+                        {title: "浏览器 url 地址殊字符转义编码", path: "202406251641"}
                     ]
                 }
             ]
