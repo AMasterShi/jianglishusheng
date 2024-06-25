@@ -291,7 +291,8 @@ module.exports = {
                     title: '日常生活',
                     collapsable: true,
                     children: [
-                        {title: "企业年报申请流程", path: '202406062017'}
+                        {title: "企业年报申请流程", path: '202406062017'},
+                        {title: "如何在电脑端获取微信里分享的百度盘小程序链接", path: '202406251728'}
                     ]
                 }
             ],
